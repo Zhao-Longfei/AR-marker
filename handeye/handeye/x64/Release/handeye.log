@@ -1,0 +1,9 @@
+﻿  Using triplet "x64-windows" from "C:\users\Administrator\source\repos\vcpkg\installed\x64-windows\"
+  handeye.cpp
+C:\Users\Administrator\Desktop\AR实验记录\8.18\handeye\handeye\handeye\handeye.h(145,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  1 of 323 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  handeye.vcxproj -> C:\Users\Administrator\Desktop\AR实验记录\8.18\handeye\handeye\x64\Release\handeye.exe
